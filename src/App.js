@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Container, Img, ContainerItens, H1, InputLabel, Input, Button } from "./style";
+import { Container, Image, ContainerItens, H1, InputLabel, Input, Button } from "./style";
 
 function App(){
 
@@ -17,7 +17,7 @@ function App(){
         <Input placeholder="Idade" />
 
         <Button>Cadastrar</Button>
-        
+
         </ContainerItens>
       
     </Container>
