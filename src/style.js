@@ -1,6 +1,9 @@
 import styled from "styled-components";
+import fundo1 from "./assets/fundo1";
+
 
 export const Container = styled.div`
+    background: url(${fundo1});
 `;
 
 export const Image = styled.div`
